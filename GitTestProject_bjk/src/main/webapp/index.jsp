@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<!-- 첫번째 수정 -->
+	<h1>index.jsp</h1>
 </body>
 </html>
